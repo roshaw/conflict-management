@@ -1,4 +1,4 @@
-# Intro
+### <!-- .element: class="main-title" --> Intro
 
 Note:
 
@@ -7,12 +7,12 @@ Some text that will show in speaker view
 
 ----
 
-## Second child page
+#### Second child page
 
 
 ---
 
-# Second page
+### Second page
 
 Note:
 
@@ -21,5 +21,5 @@ Note:
 
 ---
 
-# Third page
+### Third page
 
