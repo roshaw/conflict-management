@@ -1,4 +1,4 @@
-### <!-- .element: class="main-title" --> Управление на конфликти 
+# <!-- .element: class="main-title" --> Управление на конфликти 
 
 Note: 
 
@@ -6,7 +6,7 @@ Note:
 
 ----
 
-#### Видове конфликти
+## Видове конфликти
 
 * <!-- .element: class="fragment" --> Конфликт на задачите
 * <!-- .element: class="fragment" --> Конфликт на ролите
@@ -30,7 +30,7 @@ Note:
 
 ---
 
-### Second page
+# Second page
 
 Note:
 
@@ -39,5 +39,5 @@ Note:
 
 ---
 
-### Third page
+# Third page
 
