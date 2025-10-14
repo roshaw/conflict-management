@@ -8,8 +8,15 @@
 
 .reveal {
     --r-heading3-size: 1em;
- --r-main-color: var(--black-title);
-   --r-main-font: var(--azosans);
+    --r-main-color: var(--black-title);
+    --r-main-font: var(--azosans);
+    --r-main-font-size: 30px;
+    font-family: var(--r-main-font);
+    font-size: var(--r-main-font-size);
+    color: var(--r-main-color);
+;
+    font-weight: normal;
+    color: var(--r-main-color);
 }
 .reveal .chart-container {
     position: relative;
@@ -24,6 +31,7 @@
     width: 120%;
     margin-left: -10%;
 }
+
 
 
 
