@@ -33,12 +33,13 @@
 
 .reveal .slide-background .slide-background-content:after {
     position: absolute;
-    top: 20px;
-    right: 50px;
+    top: 39px;
+    right: 83px;
     content: 'Яна Нейчева';
     font-family: var(--r-main-font);
     font-size: 16px;
     color: var(--r-main-color);
+    font-weight: bold;
 }
 
 .reveal {
@@ -65,6 +66,7 @@
     width: 120%;
     margin-left: -10%;
 }
+
 
 
 
