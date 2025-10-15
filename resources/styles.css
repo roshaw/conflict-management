@@ -12,8 +12,10 @@
     left: 20px;
     content: '';
     background: url(https://www.bgosoftware.com/assets/images/bgo_software_logo_black1.svg);
-    width: 249px;
-    height: 66px;
+    width: 180px;
+    height: 60px;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .reveal {
@@ -41,6 +43,7 @@
     width: 120%;
     margin-left: -10%;
 }
+
 
 
 
