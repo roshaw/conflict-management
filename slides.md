@@ -1,4 +1,4 @@
-### <!-- .element: class="main-title" --> Управление на конфликти 
+## <!-- .element: class="main-title" --> Управление на конфликти 
 
 Note: 
 
