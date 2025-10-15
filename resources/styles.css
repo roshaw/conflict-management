@@ -6,7 +6,7 @@
     background-size: cover;
 }
 
-.reveal slide-background::after {
+.reveal .slide-background::after {
     position: absolute;
     top: 20px;
     left: 20px;
@@ -41,6 +41,7 @@
     width: 120%;
     margin-left: -10%;
 }
+
 
 
 
