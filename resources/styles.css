@@ -18,6 +18,29 @@
     background-repeat: no-repeat;
 }
 
+.reveal .slide-background .slide-background-content:before {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    content: '';
+    background: url(https://www.bgosoftware.com/blog/wp-content/uploads/2024/08/Yana_N_avatar_icon-76x76.png);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.reveal .slide-background .slide-background-content:after {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    content: 'Яна Нейчева';
+    font-family: var(--r-main-font);
+    font-size: 16px;
+    color: var(--r-main-color);
+}
+
 .reveal {
     --r-heading3-size: 1em;
     --r-main-color: var(--black-title);
@@ -27,7 +50,6 @@
     --r-link-color: var(--black-title);
     font-family: var(--r-main-font);
     font-size: var(--r-main-font-size);
-    color: var(--r-main-color);
     color: var(--r-main-color);
 }
 .reveal .chart-container {
@@ -43,6 +65,7 @@
     width: 120%;
     margin-left: -10%;
 }
+
 
 
 
