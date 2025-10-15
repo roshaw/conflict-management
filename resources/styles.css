@@ -12,6 +12,7 @@
     --r-main-font: var(--azosans);
     --r-main-font-size: 30px;
     --r-heading-color: var(--black-title);
+    --r-link-color: var(--black-title);
     font-family: var(--r-main-font);
     font-size: var(--r-main-font-size);
     color: var(--r-main-color);
@@ -30,6 +31,7 @@
     width: 120%;
     margin-left: -10%;
 }
+
 
 
 
