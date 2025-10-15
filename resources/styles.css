@@ -6,6 +6,16 @@
     background-size: cover;
 }
 
+.reveal slide-background::after {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    content: '';
+    background: url(https://www.bgosoftware.com/assets/images/bgo_software_logo_black1.svg);
+    width: 249px;
+    height: 66px;
+}
+
 .reveal {
     --r-heading3-size: 1em;
     --r-main-color: var(--black-title);
@@ -31,6 +41,7 @@
     width: 120%;
     margin-left: -10%;
 }
+
 
 
 
