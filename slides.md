@@ -17,17 +17,25 @@ Note:
 * <!-- .element: class="fragment" --> Междуличностни конфликти
 
 ----
-#### Кофликтните личности
-* <!-- .element: class="fragment" --> Kiss up / Kick down
-* <!-- .element: class="fragment" --> Credit stealers
-* <!-- .element: class="fragment" --> Bulldozer
-* <!-- .element: class="fragment" --> The Free riders
-* <!-- .element: class="fragment" --> The Neglectful Boss
-* <!-- .element: class="fragment" --> The Micromanager
-* <!-- .element: class="fragment" --> The Gaslighter
+#### Кофликтните личности (The Bully profile)
+
+* <!-- .element: class="fragment" --> Липса на емпатия
+* <!-- .element: class="fragment" --> Емоционално незрели
+* <!-- .element: class="fragment" --> Прекалено високо самочувствие
+* <!-- .element: class="fragment" --> Неглижират те косвено, особено преди аудитория
+* <!-- .element: class="fragment" --> Удоволствие да се заяждат
+* <!-- .element: class="fragment" --> Изглежда не търсят решения
+* <!-- .element: class="fragment" --> Известни са, че ще свършат работата
+
+
   
 Note:
-Tessa West is a social psychologist and professor at New York University. She has spent years leveraging science to help people solve interpersonal conflicts in the workplace. Her book, “Jerks at Work: Toxic Coworkers and What to Do About Them”
+Не осъзнават, че другите се чувстват некомфортно
+Нямат емоционален контрол
+Оставят самочувствието им да е водещо
+Леки нападки, пасивна агресия, коментари
+Трудно се ориентират към решение
+Въпреки всичко, вършат работата, за да не злепоставят имиджа си
 ---
 
 #### Конфликтът е двупосочна улица
