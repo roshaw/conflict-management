@@ -2,7 +2,11 @@
 
 Note: 
 
-
+---
+#### За какво се борим?
+* <!-- .element: class="fragment" --> Презентация VS Дискусия
+* <!-- .element: class="fragment" --> Да се изслушваме
+* <!-- .element: class="fragment" --> Реални практически примери
 
 ---
 
