@@ -100,6 +100,12 @@ Note:
 
 ----
 
+#### Методът LARA
+* <!-- .element: class="fragment" --> L * <!-- .element: class="fragment" --> isten
+* <!-- .element: class="fragment" --> A * <!-- .element: class="fragment" --> ffirm
+* <!-- .element: class="fragment" --> R * <!-- .element: class="fragment" --> esponf
+* <!-- .element: class="fragment" --> A * <!-- .element: class="fragment" --> dd
+
 ### Емоционална интелигентност и управление на конфликти
   * <!-- .element: class="fragment" --> Самоосъзнатост
   * <!-- .element: class="fragment" --> Самоуправление
