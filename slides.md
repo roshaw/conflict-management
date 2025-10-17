@@ -25,6 +25,7 @@ Note:
 * <!-- .element: class="fragment" --> Компромис
 * <!-- .element: class="fragment" --> Съперничество
 * <!-- .element: class="fragment" --> Приспособяване
+----
 
 #### Кофликтните личности (The Bully profile)
 
